@@ -1,3 +1,2 @@
-## Personal Portfolio
+## NextJS Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
